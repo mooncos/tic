@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<title>Programación SEK-Ciudalcampo</title>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://schacks.github.io/icon.png">
+<meta name="og:image" content="https://schacks.github.io/icon.png">
+<meta name="og:title" content="Programación SEK-Ciudalcampo">
+<meta name="twitter:title" content="Programación SEK-Ciudalcampo">
+<meta name="og:description" content="Club de programación de SEK-Ciudalcampo.">
+<meta name="twitter:description" content="Club de programación de SEK-Ciudalcampo.">
+<meta name="description" content="Club de programación de SEK-Ciudalcampo.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="static/main.css">
+<link rel="stylesheet" href="static/main.js">

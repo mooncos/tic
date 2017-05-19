@@ -1,2 +1,7 @@
-# tic
-ICT Class 2017. Programación de software para la resolución de problemas con computadores
+# code-sekcc.github.io
+The club's website
+
+Built with [Skeleton](https://github.com/dhg/Skeleton), [jQuery](https://github.com/jquery/jquery) and [Formsping.io](http://formspring.io)
+
+-------
+Released under the [MIT License](LICENSE.md)

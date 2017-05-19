@@ -1,0 +1,33 @@
+@media (min-width: 1000px) {
+    body {
+        color: #fff;
+        background-color: #000;
+    }
+
+    footer {
+        background: #000 !important;
+    }
+
+    .logo {
+        box-shadow: 0px 0px 8px #fff;
+        margin-left: 8px;
+    }
+
+    input, select, textarea {
+        color: initial;
+    }
+
+    textarea:focus, input:focus {
+        color: initial;
+    }
+
+    input[type="submit"] {
+        color: #fff;
+    }
+
+    input[type="submit"]:hover {
+        color: #aaa;
+    }
+}
+
+}
